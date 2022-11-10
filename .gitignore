@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+Vivli/
+vprior/
+twobernoulli_onenormal/
+Results/
+pos/
+corr_type1error/
+
